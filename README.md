@@ -29,6 +29,7 @@ The primary objective is to capitalize on the platform's revenue growth while ad
 - **Time period:** 2016-2018
 - **Data size:** CUSTOMERS(99442,5),GEO_LOCATION(99952,5),ORDER_ITEMS(112651,7),ORDER_PAYMENTS(103887,5),ORDER_REVIEW_RATINGS(100001,5),ORDERS(99442,8),PRODUCTS(32952,9),SELLERS(3096,4)
 - **Key metrics:** Total revenue, Freight cost, Average customer rating, Average order value, Number of sellers and customers
+- [**Dataset Link**](https://github.com/amanat-mahmud/E-commerce_sales_analysis/tree/main/Dataset)
 - [**Data Model**](https://github.com/amanat-mahmud/E-commerce_sales_analysis/blob/main/data%20model.png)
 
 ## 🔎 Key Findings
