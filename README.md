@@ -77,6 +77,6 @@ The detailed presentation slides for this project can be found [here](https://gi
 - Microsoft Power BI Desktop
 
 ## 📈 Dashboard
-- [Live Dasboard](https://app.powerbi.com/view?r=eyJrIjoiZjRiZDZlNGYtNWYwNi00Y2MwLWE1NGQtNTRkMjI2NzdmZDBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
+- [Live Dasboard](https://app.powerbi.com/view?r=eyJrIjoiZjk4YmZhZGMtYzQyNC00NDZlLWFkNjktY2FkYmQ5OGQ1NGI4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 <img style="border-radius:25px;" src="https://github.com/amanat-mahmud/E-commerce_sales_analysis/blob/main/dashboard_ss.png">
 
