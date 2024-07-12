@@ -64,7 +64,7 @@ The detailed presentation slides for this project can be found [here](https://gi
 1. Data Loading and Transformations.
 2. Power Query and DAX.
 3. Data modeling.
-4. Conditional and clalculated column.
+4. Conditional and calculated column.
 5. KPI Development.
 6. Data visualization.
 7. Dynamically switch metrics and title in visuals.
