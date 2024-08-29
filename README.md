@@ -22,7 +22,7 @@ The primary objective is to capitalize on the platform's revenue growth while ad
 - **Analytical & Visual:**  Microsoft Power BI\
   <img width="96" height="96" src="https://github.com/amanat-mahmud/useful_icons/blob/main/icons8-power-bi-2021-144.png" alt="power-bi-2021"/>
 - **Presentation:** Microsoft Power Point\
-  <img width="96" height="96" src="https://img.icons8.com/fluency/96/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/>
+  <img width="96" height="96" src="https://github.com/amanat-mahmud/useful_icons/blob/main/icons8-power-point-144.png" alt="microsoft-powerpoint-2019"/>
 
 ## 📅 Dataset Overview
 - **Data source:** Internet
